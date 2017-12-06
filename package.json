@@ -1,5 +1,5 @@
 {
-  "name": "react-apollo",
+  "name": "@clayne/react-apollo",
   "version": "2.0.1",
   "description": "React data container for Apollo Client",
   "main": "lib/react-apollo.umd.js",
